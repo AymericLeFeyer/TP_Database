@@ -99,11 +99,14 @@
                 <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="com.intellij.database.console.session.MessageBusSession@5eb533c1" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
+<<<<<<< HEAD
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="com.intellij.database.console.session.MessageBusSession@ee99020" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
+=======
+>>>>>>> master
             </expand>
             <select />
           </treeState>
@@ -120,6 +123,7 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="744" y="278" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1583757991227" />
+<<<<<<< HEAD
     <state width="1291" height="275" key="GridCell.Tab.0.bottom" timestamp="1583759970360">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
@@ -136,6 +140,24 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1291" height="275" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1583759970359" />
+=======
+    <state width="1291" height="275" key="GridCell.Tab.0.bottom" timestamp="1583760367877">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1291" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1583760367877" />
+    <state width="1291" height="275" key="GridCell.Tab.0.center" timestamp="1583760367875">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1291" height="275" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1583760367875" />
+    <state width="1291" height="275" key="GridCell.Tab.0.left" timestamp="1583760367874">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1291" height="275" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1583760367874" />
+    <state width="1291" height="275" key="GridCell.Tab.0.right" timestamp="1583760367875">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1291" height="275" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1583760367875" />
+>>>>>>> master
     <state x="457" y="155" key="SettingsEditor" timestamp="1583758397149">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
