@@ -1,9 +1,9 @@
 -- Creation des tables sous PostGreSQL
 
 drop table Client cascade;
-drop table Architecte cascade ;
-drop table Artisan cascade ;
-drop table Projet cascade ;
+drop table Architecte cascade;
+drop table Artisan cascade;
+drop table Projet cascade;
 drop table Chantier cascade ;
 
 create table Client
@@ -56,10 +56,12 @@ create table Projet
 create table Chantier
 (
   idChantier integer NOT NULL,
-  dateDebut date NOT NULL,
-  dateFin date NOT NULL,
+  dateDebut date,
+  dateFin date,
+  budget float,
   idProjet integer NOT NULL,
   idArtisan integer NOT NULL,
+
 
   primary key (idChantier),
   foreign key (idProjet) references Projet (idProjet),
