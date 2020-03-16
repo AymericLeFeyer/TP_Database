@@ -61,3 +61,36 @@ create trigger trigger3 before insert on chantier
     for each row
     execute procedure trigger3();
 
+
+
+create trigger trigger3 before insert on projet
+    for each row
+    execute procedure trigger3();
+
+
+-- Mise a jour commission
+
+create or replace function trigger4()
+returns trigger as $trigger4$
+    declare a double precision;
+
+    begin
+    raise notice 'Update commission';
+
+    update architecte
+    set commission = commission + new.montant * 0.1
+    where new.idarchi = idarchi
+    and new.etat = 'termine';
+
+    return new;
+
+
+    end;
+
+    $trigger4$ language plpgsql;
+
+create trigger trigger4 before update on projet
+    for each row
+    execute procedure trigger4();
+
+
