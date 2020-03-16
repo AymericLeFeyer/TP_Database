@@ -1,9 +1,9 @@
  CREATE TABLE Client
 (
   idCLient integer NOT NULL,
-  nom varchar(10),
-  prenom varchar(10),
-  adresse varchar(20),
+  nom varchar(20),
+  prenom varchar(20),
+  adresse varchar(40),
 
   PRIMARY KEY (idCLient)
 );
@@ -11,10 +11,10 @@
 CREATE TABLE Architecte
 (
   idArchi integer NOT NULL,
-  nom varchar(10),
-  prenom varchar(10),
-  fonction varchar(10),
-  dateEmbauche varchar(10),
+  nom varchar(20),
+  prenom varchar(20),
+  fonction varchar(20),
+  dateEmbauche date,
   commission integer,
 
   PRIMARY KEY (idArchi)
@@ -23,9 +23,9 @@ CREATE TABLE Architecte
 CREATE TABLE Artisan
 (
   idArtisan integer NOT NULL,
-  nom varchar(10),
-  prenom varchar(10),
-  corpMetier varchar(10),
+  nom varchar(20),
+  prenom varchar(20),
+  corpMetier varchar(20),
 
   PRIMARY KEY (idArtisan)
 );
@@ -34,9 +34,9 @@ CREATE TABLE Artisan
 CREATE TABLE Projet
 (
   idProjet integer NOT NULL,
-  intitulé varchar(10),
+  intitulé varchar(20),
   montant integer,
-  etat varchar(10),
+  etat varchar(20),
 
   idArchi integer NOT NULL,
   idCLient integer NOT NULL,

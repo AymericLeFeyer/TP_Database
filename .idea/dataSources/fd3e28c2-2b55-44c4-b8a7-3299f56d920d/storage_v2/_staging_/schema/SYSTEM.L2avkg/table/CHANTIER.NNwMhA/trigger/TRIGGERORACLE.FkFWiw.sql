@@ -1,0 +1,14 @@
+create trigger TRIGGERORACLE
+    after insert
+    on CHANTIER
+    for each row
+DECLARE
+
+BEGIN
+    UPDATE PROJET
+        SET PROJET.MONTANT = 50000
+    WHERE PROJET.IDPROJET=NEW.IDPROJET;
+
+END;
+
+

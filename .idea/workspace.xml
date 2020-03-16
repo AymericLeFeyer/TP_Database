@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="266400ed-335e-4ad9-a11d-9b4c137aebb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="SYSTEM: schema" type="3abd1b6a:OraImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="SYSTEM: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="SYSTEM: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="CHANTIER: table" type="942f455b:OraImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="fd3e28c2-2b55-44c4-b8a7-3299f56d920d" />
+    </checked>
+  </component>
+  <component name="ProjectId" id="1YtTCsR1EP2YPFn3YiMsvGWlupm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@49d1b0e6" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4a132cc4" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1039" y="182" key="#SQL_Resolution_Scopes" timestamp="1583764812720">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="1039" y="182" key="#SQL_Resolution_Scopes/0.0.1920.1044@0.0.1920.1044" timestamp="1583764812720" />
+    <state x="1040" y="182" width="802" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583760867748">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="1040" y="182" width="802" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1583760867748" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1583765634580">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1920.1044@0.0.1920.1044" timestamp="1583765634580" />
+    <state x="743" y="206" key="ExecutionTargetDialog" timestamp="1583763303823">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="743" y="206" key="ExecutionTargetDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1583763303823" />
+    <state width="1291" height="102" key="GridCell.Tab.0.bottom" timestamp="1583765865662">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1291" height="102" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1583765865662" />
+    <state width="1291" height="102" key="GridCell.Tab.0.center" timestamp="1583765865660">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1291" height="102" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1583765865660" />
+    <state width="1291" height="102" key="GridCell.Tab.0.left" timestamp="1583765865659">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1291" height="102" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1583765865659" />
+    <state width="1291" height="102" key="GridCell.Tab.0.right" timestamp="1583765865661">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1291" height="102" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1583765865661" />
+    <state x="839" y="412" width="334" height="227" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1583765681815">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="839" y="412" width="334" height="227" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1044@0.0.1920.1044" timestamp="1583765681815" />
+    <state x="639" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1583762884749">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="639" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1583762884749" />
+    <state x="623" y="231" key="search.everywhere.popup" timestamp="1583765794138">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="623" y="231" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1583765794138" />
+  </component>
+</project>
