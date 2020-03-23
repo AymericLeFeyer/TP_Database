@@ -1,4 +1,4 @@
-select enfant
+select *
 from enfant
 where enfant.prenom = 'Conrad';
 
