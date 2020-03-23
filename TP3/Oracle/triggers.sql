@@ -1,9 +1,0 @@
-CREATE OR REPLACE TRIGGER question
-AFTER DELETE
-   ON JOURNEE
-   FOR EACH ROW
-BEGIN
-    DBMS_OUTPUT.PUT_LINE('Une journée a été supprimé');
-END;
-
-
