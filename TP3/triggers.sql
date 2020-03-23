@@ -35,15 +35,7 @@ create or replace FUNCTION MessageVolumeHoraire() returns trigger as $MessageVol
         if (V <= P) then raise notice 'Duree maximale';
         end if;
 
-
-
         return new;
-
-
-
-
-
-
 
     end;
     $MessageVolumeHoraire$ language plpgsql;
